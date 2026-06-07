@@ -31,6 +31,14 @@ Help protect your budget by protecting your home
 ```
 <img width="895" height="800" alt="image" src="https://github.com/user-attachments/assets/31d11d98-e634-4798-be6c-e34ec9fbd019" />
 
+View the message source of email1.eml using Thunderbird in your VM.
+What the IP address listed as the X-Originating-Ip?
+```bash
+43.255.56.161
+```
+<img width="860" height="792" alt="image" src="https://github.com/user-attachments/assets/b6b57e52-9f9a-4f23-9774-c62f4416dc89" />
+
+
 
 
 
