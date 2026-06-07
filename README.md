@@ -24,6 +24,12 @@ Which protocol should he use?
 ```bash
 IMAP
 ```
+## Task 4: Email Headers
+What is the full subject line of email1.eml?
+```bash
+Help protect your budget by protecting your home
+```
+<img width="895" height="800" alt="image" src="https://github.com/user-attachments/assets/31d11d98-e634-4798-be6c-e34ec9fbd019" />
 
 
 
