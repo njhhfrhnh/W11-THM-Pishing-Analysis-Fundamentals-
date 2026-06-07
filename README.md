@@ -1,4 +1,4 @@
-# W11 THM Pishing Analysis Fundamentals
+# W11 THM Phishing Analysis Fundamentals
 
 ## Task 2: The Email Address
 ### Identify the domain used in the following email address:
