@@ -4,28 +4,43 @@
 ### Identify the domain used in the following email address:
 ### hatsalesman@tryhatme.com
 
+The email address hatsalesman@tryhatme.com was examined. The domain portion of an email address is located after the @ symbol. Therefore, tryhatme.com was identified as the domain.
+
 ```bash
 tryhatme.com
 ```
 
 ## Task 3: Email Delivery
 ### (i) Which protocol is responsible for sending an email from a client to a mail server?
+
+The room material explaining email delivery protocols was reviewed. SMTP (Simple Mail Transfer Protocol) was identified as the protocol responsible for sending emails from a client to a mail server
+
 ```bash
 SMTP
 ```
 
 ### (ii) Which service is used to look up the recipient domain’s mail server?
+
+The lesson content describing email routing was examined. DNS is used to look up the mail server associated with a recipient's domain name.
+
 ```bash
 DNS
 ```
 
 ### (iii) Bob wants to access his email from multiple devices, including his phone and laptop.
-Which protocol should he use?
+### Which protocol should he use?
+
+The scenario stated that Bob wanted to access his emails from multiple devices. IMAP was identified as the correct protocol because it synchronizes emails across multiple devices while keeping messages on the mail server.
+
 ```bash
 IMAP
 ```
+
 ## Task 4: Email Headers
 ### (i) What is the full subject line of email1.eml?
+
+The email1.eml file was opened using Thunderbird. The email header information was examined, and the Subject field was located. The value displayed in the Subject field was recorded as the answer.
+
 ```bash
 Help protect your budget by protecting your home
 ```
@@ -34,6 +49,9 @@ Help protect your budget by protecting your home
 
 ### (ii)  View the message source of email1.eml using Thunderbird in your VM.
 ### What the IP address listed as the X-Originating-Ip?
+
+The message source of email1.eml was viewed in Thunderbird. The email headers were inspected until the X-Originating-IP field was found, and the associated IP address was recorded.
+
 ```bash
 43.255.56.161
 ```
