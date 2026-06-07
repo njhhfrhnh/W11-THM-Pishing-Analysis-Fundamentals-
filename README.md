@@ -90,6 +90,13 @@ atlas102.free.mail.gq1.yahoo.com
 ```
 <img width="693" height="192" alt="image" src="https://github.com/user-attachments/assets/cca8f8ee-126b-4a46-af4f-d43dcdef5d4a" />
 
+## Task 7: Conclusion
+
+### What attack, signified by the acronym BEC, uses a compromised email to trick employees into fraud?
+```bash
+Business Email Compromise
+```
+
 
 
 
